@@ -1,0 +1,4 @@
+C:\Users\pim\Desktop\CSharp12Features\1.PrimaryConstructors\Showcase\obj\Debug\net8.0\Showcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pim\Desktop\CSharp12Features\1.PrimaryConstructors\Showcase\obj\Debug\net8.0\Showcase.AssemblyInfoInputs.cache
+C:\Users\pim\Desktop\CSharp12Features\1.PrimaryConstructors\Showcase\obj\Debug\net8.0\Showcase.AssemblyInfo.cs
+C:\Users\pim\Desktop\CSharp12Features\1.PrimaryConstructors\Showcase\obj\Debug\net8.0\Showcase.csproj.CoreCompileInputs.cache
